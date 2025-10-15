@@ -12,6 +12,10 @@
 <hr>
 
 # Skill
+
+<details>
+  <summary>Click To Expand Other Tools:</summary>
+    
   ###### Programming Languages:
   <p>
     <a href="https://skillicons.dev">
@@ -33,9 +37,6 @@
       <img src="https://skillicons.dev/icons?perline=10&i=express,nestjs,fastapi,flask,django,laravel,rails,actix,rocket,spring" />
     </a>
   </p>
-
-<details>
-  <summary>Click To Expand Other Tools:</summary>
 
   ###### Operating Systems & Platforms:
   <p>
