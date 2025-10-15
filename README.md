@@ -5,9 +5,7 @@
 
 # 💭About me
 
-- 💼 Full Stack Engineer & Data Scientist
-
-- 📈 Built AI Powered Youtube Summarizer, Soccer League Platform, Social Media Emoji Posting Platform, and Poker Game
+- 💼 Full Stack & AI Agentics Developer
 
 - ❤️ I enjoy working with all types of frameworks, and pushing the limits
 
