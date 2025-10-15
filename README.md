@@ -15,14 +15,14 @@
   ###### Programming Languages:
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?perline=10&i=javascript,typescript,nodejs,deno,python,java,go,php,rust,bash,swift,c,cpp,cs" />
+      <img src="https://skillicons.dev/icons?perline=10&i=javascript,typescript,nodejs,python,java,go,php,rust,bash,swift,c,cpp,cs" />
     </a>
   </p>
 
   ###### Frontend Frameworks & Libraries:
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?perline=10&i=vue,nuxtjs,react,nextjs,svelte,angular,remix,astro,pinia,redux,vuetify,pug,tailwindcss,bootstrap,materialui,sass" />
+      <img src="https://skillicons.dev/icons?perline=10&i=vue,nuxtjs,react,nextjs,svelte,angular,astro,pinia,redux,tailwindcss,bootstrap,materialui,sass" />
     </a>
   </p>
 
@@ -49,7 +49,7 @@
   </details> -->
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?perline=10&i=mysql,postgres,mongodb,redis,sqlite,cassandra,dynamodb,graphql,apollo,prisma" />
+      <img src="https://skillicons.dev/icons?perline=10&i=mysql,postgres,mongodb,redis,sqlite,dynamodb,graphql,apollo,prisma" />
     </a>
   </p>
 
@@ -75,7 +75,7 @@
   ###### Testing & QA:
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?perline=10&i=vitest,jest,cypress,selenium,postman" />
+      <img src="https://skillicons.dev/icons?perline=10&i=vitest,jest,postman,playwright" />
     </a>
   </p>
   <!-- <details>
