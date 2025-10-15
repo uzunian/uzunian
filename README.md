@@ -11,7 +11,7 @@
 
 <hr>
 
-# Skill
+# Skills Toolbox
 
 <details>
   <summary>Click To Expand Other Tools:</summary>
